@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<!-- Google Tag Manager 21250 -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-N83QNL3');</script>
+	<!-- End Google Tag Manager -->    
+        <meta charset="utf-8">
+        <meta property="og:image" content="http://www.erlang-factory.com/static/upload/media/1475661614695301bannertlo.jpg" />
+        <meta property="og:description" content='<p>Functional programming is taking Kraków by storm. Scala, Erlang, Haskell, Elixir, Lisp and Clojure are scoring points with IT professionals, computer science students and technology geeks.</p>'>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Lambda Days 2017</title>
+        <meta name="description" content='<p>Functional programming is taking Kraków by storm. Scala, Erlang, Haskell, Elixir, Lisp and Clojure are scoring points with IT professionals, computer science students and technology geeks.</p>'>
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+        <link rel="shortcut icon" href="/static/img/favicon.ico" />
+        <link rel="stylesheet" href="/static/css/theme.css">
+        <script src="/static/js/respond.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script src="/static/js/theme.js"></script>
+    </head>
+    <body>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N83QNL3"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->    	
+        
+<div id="wrap">
+    <div class="push"></div>
+    <div class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse">
+      <ul class="nav navbar-nav" id="top-nav">
+    
+    <li style="display: block; background-image: url('/static/upload/media/14423979793681441975311394919logo_czarne.png');"  class="to-collapse background-logo">
+    <a class="head-logo" href="/lambdadays2017#home">
+      <div class="logo-container">
+        
+      </div>
+    </a>
+    </li>
+    
+	
+
+    
+        
+            
+                
+    
+
+
+            
+                
+    
+
+
+            
+                
+    
+    <li><a  class="external" 
+      href="/lambdadays2017/#speakers"
+         class="menu-item">Speakers</a></li>
+    
+
+
+            
+                
+    
+
+
+            
+                
+    
+    <li><a  class="external" 
+      href="/lambdadays2017/#programme"
+         class="menu-item">Programme</a></li>
+    
+
+
+            
+                
+    
+    <li><a  class="external" 
+      href="/lambdadays2017/#programme-committee"
+         class="menu-item">Programme Committee</a></li>
+    
+
+
+            
+                
+    
+    <li><a  class="external" 
+      href="/lambdadays2017/#organizers"
+         class="menu-item">Organizers</a></li>
+    
+
+
+            
+                
+    
+
+
+            
+                
+    
+    <li><a  class="external" 
+      href="/lambdadays2017/#sponsors"
+         class="menu-item">Sponsors</a></li>
+    
+
+
+            
+                
+    
+
+
+            
+                
+    
+    <li><a  class="external" 
+      href="/lambdadays2017/#venue"
+         class="menu-item">Venue</a></li>
+    
+
+
+            
+                
+    
+
+
+            
+                
+    
+
+
+            
+                
+    
+
+
+            
+                
+    
+
+
+            
+        
+    
+
+    
+        
+            <li class="dropdown active">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Past Events</a>
+                <ul class="dropdown-menu">
+                    
+                        
+    <li><a class="external" target="_blank"
+         href="http://www.lambdadays.org/lambdadays2016/"
+         class="menu-item">Lambda Days 2016</a></li>
+
+
+                    
+                        
+    <li><a class="external" target="_blank"
+         href="/static/lambda2015.htm"
+         class="menu-item">Lambda Days 2015</a></li>
+
+
+                    
+                        
+    <li><a class="external" target="_blank"
+         href="/static/lambda2014.htm"
+         class="menu-item">Lambda Days 2014</a></li>
+
+
+                    
+                </ul>
+            </li>
+        
+    
+
+
+      </ul>
+    </div><!--/.navbar-collapse -->
+  </div><!-- end of container -->
+</div> <!-- end of navbar-->
+
+    
+<div class="container" style="margin: 0px; padding: 0px; width: 100%; max-width: 100%; text-align: center;">
+  <div class="block">
+    <a class="anchor" id="idalin-bobe"></a>
+    <!-- Main hero unit for a primary marketing message or call to action -->
+    
+<div class="pushlower"></div>
+<div>
+  <div class="row">
+    <div class="col-md-1">
+    </div>
+    <div class="col-md-offset-1 col-md-4">
+      <div class="row">
+	      <div class="col-md-12">
+          <br />
+	        <div class="speaker_page_image"
+               style="background-image: url(
+	                    
+	                    '/static/upload/media/148181982717383aaeaaqaaaaaaaaiyaaaajgjingm1ngnhlwzlyzqtnge3os1hotcwltq3njq3ndc0ztc2zq.jpeg'
+	                    )">
+	        </div>
+	      </div>
+      </div>
+      <div class="row">
+        
+        
+        <a class="icon" target="_blank" href="http://www.twitter.com/idalinbobe">
+          <img src="/static/img/twitter.png">
+        </a>
+        
+      </div>
+    </div><!-- end of col-md-4 -->
+    <div class="col-md-6 speaker-right">
+      <h3>Idalin Bobé</h3>
+      Sr. IT Consultant @ ThoughtWorks and Tech Activist
+      <br />
+      <p class="speaker_bio">
+	      <p>Imagine if the Black Panthers had a technology education program. That is the type of tech activism Idalin Bobé embodies in her work. Idalin’s goal is to merge computer programming with political education so that black, brown, and poor people understand the impact technology and social structures have on their lives and that they possess the means to produce fundamental change. <br /><br />Idalin Bobé is a Senior IT Consultant at ThoughtWorks and works on the company's global social justice initiatives. Understanding that diversity alone does not mean social justice, she has leveraged her platform to spearhead several tech literacy and empowerment programs to help hard-to-reach populations master technology tools for self-determination. Her most recent work was launching “Hutton 2.0,” a free six-week intensive program named after the youngest member of the Black Panther Party, “Lil Bobby Hutton,” that teaches coding, digital storytelling, and political education to youth in Oakland and Berkeley currently in — or at-risk of entering — the juvenile justice system.<br /><br />Other tech initiatives she spearheaded were: supporting Ferguson, Missouri, activists with technology tools through Hands Up United's Roy Clay Sr. Institute. The program trains young community leaders to gain twenty-first century technology skills. She also helped build a computer lab for a school in South India serving people of the lowest castes, led fundraising campaigns to teach 2,000 girls of color through Black Girls CODE, and organized social justice hackathons with Qeyno Labs Hackathons and #YesWeCode. <br /><br />An Afro-Latina hailing from North Philadelphia, PA Idalin is a rising thought leader whose work has positioned her at the forefront of innovation in technology, activism, and community development.</p>
+      </p>
+
+      
+      
+      <h4 class="modal-title">Keynote: The Gap Between Diversity and Social Justice</h4>
+      <p>Civil unrest is growing exponentially around the world as more protests, organized resistance, and uprisings occur in response to increased brutality against oppressed communities. Now more than ever, millions of people across demographics and in communities all over the world are rising together to resist exploitation, racism, and state terrorism. How do technology and the technologist play a role in activism? How is technology both helping and hindering the effectiveness of activism? And more importantly, how do we hold technologists accountable for creating socially aware, community-conscious, and politically committed techies, and not just settle for diversifying the tech sector in appearance?</p>
+      
+      <br />
+      
+      
+      
+      <a href="/lambdadays2017" style="text-align: right; float:right;">
+	      &#8592;Back 
+      </a>
+    </div><!-- end of col-md-->
+  </div><!--end of row -->
+</div>
+
+</div> <!-- end of block -->
+
+  <div class="block" style="background: rgb(36, 39, 41);">
+    <!-- Main hero unit for a primary marketing message or call to action -->
+
+    <div class="row">
+      <div class="col-md-12">
+        <h1 class="contact-header"  style="color: white;">Contact</h1>
+        <p style="color: white;" ><a href="https://www.lambdadays.org/lambdadays2020/#contact" style="color: #ebc114;">Contact Us</a> * <a href="https://www.lambdadays.org/lambdadays2020/#register" style="color: #ebc114;">Register</a></p>
+        <div>
+          <a href="https://www.facebook.com/events/624296757687805/?context=create&source=49" target="_blank">
+            <img class="social-icon" src="/static/upload/media/1407736708498708fb_glowna.png" alt="facebook icon" />
+          </a>
+          <a href="https://twitter.com/LambdaDays" target="_blank">
+            <img class="social-icon" src="/static/upload/media/1407736735506811tw_glowna.png" alt="twitter icon" />
+          </a>
+          <a href="http://lanyrd.com/2015/lambdadays/" target="_blank">
+            <img class="social-icon" src="/static/upload/media/1407736760562017l_glowna.png" alt="lanyrd icon" />
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div> <!-- end of wrap -->
+<script type="text/javascript">
+  var collapseHeight = $('.to-collapse').height();
+  var backgroundPosition = $('.to-collapse').css('background-position').split(" ");
+ 
+  $(window).scroll(function(){        
+    if($(this).scrollTop() < collapseHeight){
+      $('.to-collapse').css({'height': (collapseHeight - $(this).scrollTop())+'px'});
+      $('.to-collapse').css({'background-position': backgroundPosition[0]+' '+(parseInt(backgroundPosition[1]) - $(this).scrollTop())+'px'});
+    }else{
+      $('.to-collapse').css({'height': '0px'});
+
+    }
+  });
+</script>
+
+        <script src="/static/js/bootstrap.min.js"></script>
+        <script src="/static/js/plugins.js"></script>
+        <script>
+            $('#top-nav').onePageNav({
+                currentClass: 'active',
+                changeHash: true,
+                scrollSpeed: 750,
+                filter: ':not(.external)'
+            });
+            $('.register-button').click(function() {
+                $('.register-link').click();
+            });
+            $(".dropdown").on('shown.bs.dropdown', function (e) {
+                //function called when dropdown-menu becomes visible
+                var dropdownMenu = $('ul:first', this); //find dropdown-menu
+                //if element was moved to left, set left back to 0 for next calculations
+                $(this).find(".dropdown-menu").first().css('left', 0);
+                var offset = dropdownMenu.offset();
+                var leftOffset = offset.left;
+                var width = dropdownMenu.width();
+                var documentWidth = $(document).width();
+                var sticksOutRightSide = leftOffset + width - documentWidth;
+                if (sticksOutRightSide > 0) {
+                    $(this).find(".dropdown-menu").first().css('left', -(sticksOutRightSide + 20));
+                }
+            });
+        </script>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  
+	  ga('create', 'UA-67917061-1', 'auto');
+	  ga('send', 'pageview');	
+	</script>
+        <!-- <script> -->
+        <!--     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ -->
+        <!--     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), -->
+        <!--     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) -->
+        <!--     })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); -->
+        <!--     ga('create', 'UA-235575-6', 'erlang-factory.com'); -->
+        <!--     ga('require', 'displayfeatures'); -->
+        <!--     ga('send', 'pageview'); -->
+        <!-- </script> -->
+	<script type="text/javascript">
+        gaJsHost = "https://ssl.";
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+           try {
+            var pageTracker = _gat._getTracker("UA-235575-6");
+            pageTracker._trackPageview();
+           } catch(err) {}
+        </script>
+        <script type="text/javascript">
+        piAId = '24452';
+        piCId = '1532';
+        (function() {
+            function async_load(){
+                var s = document.createElement('script'); s.type = 'text/javascript';
+                s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+                var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+            }
+            if(window.attachEvent) { window.attachEvent('onload', async_load); }
+            else { window.addEventListener('load', async_load, false); }
+        })();
+        </script>
+    </body>
+</html>
